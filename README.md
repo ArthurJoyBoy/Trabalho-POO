@@ -1,3 +1,6 @@
+# Trabalho de POO
+## Nomes: Arthur Donadussi e Pedro Kuntz
+
 - Para acessar os arquivos de C++ utilizados para este projeto, faça o Download do arquivo "Poo - Cafeteria.zip", Extraia os arquivos onde você desejar e abra a pasta "Poo - Cafeteria" no VSCode
 
 - Para rodar o programa:
